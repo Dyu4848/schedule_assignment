@@ -87,4 +87,4 @@ This Challenge is graded based on the following criteria:
 
 # Deployed-Link
 
-This is the deployed link: 
+This is the deployed link: https://dyu4848.github.io/schedule_assignment/
